@@ -1,0 +1,19 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Сценарії/">
+    <File Path="Сценарії/demo02_decl.cmd" />
+    <File Path="Сценарії/demo04_ops.cmd" />
+    <File Path="Сценарії/demo05_sort.cmd" />
+    <File Path="Сценарії/demo06_matrix.cmd" />
+    <File Path="Сценарії/demo07_pitfalls.cmd" />
+  </Folder>
+  <Project Path="Demo2_decl/Demo2_decl.vcxproj" Id="f06f8644-b175-45c4-ba27-3f0750687927" />
+  <Project Path="Demo3_memory/Demo3_memory.vcxproj" Id="49e4c895-6922-456c-a4ed-37dc27b58a85" />
+  <Project Path="Demo4_ops/Demo4_ops.vcxproj" Id="5fa573d3-2ee1-45be-9c94-81b83d19dbfc" />
+  <Project Path="Demo5_sort/Demo5_sort.vcxproj" Id="1c1537ee-06df-4084-be05-5456155b0ea2" />
+  <Project Path="Demo6_matrix/Demo6_matrix.vcxproj" Id="3e0a7153-4417-48b9-85f5-ad015b28d0ec" />
+  <Project Path="Demo7_pitfalls/Demo7_pitfalls.vcxproj" Id="a8d97fa3-3a5c-498f-a62d-eab650fe86f8" />
+</Solution>
